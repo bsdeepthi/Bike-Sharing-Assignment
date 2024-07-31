@@ -1,5 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
+# BoomBikes - US bike-sharing provider 
+> This project analyses the variables that are significant in predicting the demand for the shared bikes, which will help  US bike-sharing provider BoomBikes to understand the factors effecting the demand for the Bikes. Inturn the company will be able to come up with a mindful business plan to be able to accelerate its revenue.
 
 
 ## Table of Contents
@@ -19,12 +19,14 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+1. Rentals has increased drastically in 2019 when compared to 2018 
+2. Rentals are more on Thu, Fir, Sat and Sun  as compared to the start of the week.  
+3. Rentals are almost equal either on working day or non-working day.  
+4. Rentals was more when weathersit was 1 ( Clear, Few clouds, Partly cloudy, Partly cloudy) 
+5. Rentals was more during the month of September,October,November 
+6. Rentals is increased during the fall of the season
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+Based on the above conclusions we can predict that company should equip itself to fullfill the demand during fall of the season. Since there is around 30% of increse in demand from 2018 to 2019, similar increase can be expected in the coming year also.
 
 
 ## Technologies Used
@@ -36,13 +38,12 @@
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- This project was inspired by upgrad session on linear regression
+- References : The Python notebook provided at the end of the linear regression session in upgrad
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@bsdeepthi] - feel free to contact me!
 
 
 <!-- Optional -->
